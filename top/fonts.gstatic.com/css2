@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Noto Serif JP';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/l/font?kit=xn7mYHs72GKoTvER4Gn3b5eMXNu87E_W1ksmWCMa-GYjixRSQKx2JtGHaK35eiBA7PqR4R3oE4l4b9s9bqKg1w2p39_qL20OwrCLULThduvCcIDDBZkgZXQOIN1Kq3-Y2zEPO5Ps3s2kXuaDMRG4mYNbZw2XV0wmuTKhgRPoC4d8c7WhKkFyz_HADLNlbfrI2_saQTwkTSSeZhV_qwRi0as&skey=311bf6d07cd0b6c8&v=v21) format('woff2');
+}
